@@ -1,6 +1,6 @@
 # 1. Работа с книгами
 <details>
-  <summary>Пользователь добавляет книгу на сайт</summary>
+  <summary style="color:green">Пользователь добавляет книгу на сайт</summary>
 
 *(роль)*
 
@@ -49,7 +49,7 @@
 </details>
 
 <details>
-  <summary>Пользователь редактирует книгу которую добавил</summary>
+  <summary style="color:green">Пользователь редактирует книгу которую добавил</summary>
 
 *(роль)*
 
@@ -90,7 +90,7 @@
 </details>
 
 <details>
-  <summary>Посетитель ищет книгу с помощью поиска</summary>
+  <summary style="color:green">Посетитель ищет книгу с помощью поиска</summary>
 
 *(роль)*
 
@@ -131,7 +131,7 @@
 </details>
 
 <details>
-  <summary>Пользователь ставит книге оценку</summary>
+  <summary  style="color:green">Пользователь ставит книге оценку</summary>
 
 *(роль)*
 
@@ -168,7 +168,7 @@
 </details>
 
 <details>
-  <summary>Пользователь меняет книге свою оценку</summary>
+  <summary  style="color:green">Пользователь меняет книге свою оценку</summary>
 
 *(роль)*
 
@@ -207,7 +207,7 @@
 </details>
 
 <details>
-  <summary>Пользователь удаляет свою оценку книге</summary>
+  <summary  style="color:green">Пользователь удаляет свою оценку книге</summary>
 
 *(роль)*
 
@@ -246,7 +246,7 @@
 </details>
 
 <details>
-  <summary>Пользователь оставляет комментирай под книгой</summary>
+  <summary  style="color:green">Пользователь оставляет комментирай под книгой</summary>
 
 *(роль)*
 
@@ -277,7 +277,7 @@
 </details>
 
 <details>
-  <summary>Пользователь редактирует комментарий под книгой</summary>
+  <summary  style="color:green">Пользователь редактирует комментарий под книгой</summary>
 
 *(роль)*
 
@@ -312,7 +312,7 @@
 </details>
 
 <details>
-  <summary>Пользователь удаляет комментарий под книгой</summary>
+  <summary  style="color:green">Пользователь удаляет комментарий под книгой</summary>
 
 *(роль)*
 
@@ -347,7 +347,7 @@
 </details>
 
 <details>
-  <summary>Пользователь оставляет жалобу на книгу</summary>
+  <summary  style="color:green">Пользователь оставляет жалобу на книгу</summary>
 
 *(роль)*
 
@@ -384,7 +384,7 @@
 </details>
 
 <details>
-  <summary>Администратор редактирует любую книгу</summary>
+  <summary  style="color:green">Администратор редактирует любую книгу</summary>
 
 *(роль)*
 
@@ -413,7 +413,7 @@
 </details>
 
 <details>
-  <summary>Администратор удаляет любую книгу</summary>
+  <summary  style="color:green">Администратор удаляет любую книгу</summary>
 
 *(роль)*
 
@@ -444,7 +444,7 @@
 # 2. Работа со списками
 
 <details>
-  <summary>Пользователь просматривает списки книг</summary>
+  <summary  style="color:green">Пользователь просматривает списки книг</summary>
 
 *(роль)*
 
@@ -481,7 +481,7 @@
 </details>
 
 <details>
-  <summary>Пользователь создают собственный список книг</summary>
+  <summary  style="color:green">Пользователь создают собственный список книг</summary>
 
 *(роль)*
 
@@ -516,7 +516,7 @@
 </details>
 
 <details>
-  <summary>Пользователь добавляет книгу в один из списоков по умолчанию 'прочитанно' : 'читаю' : 'хочу прочитать'</summary>
+  <summary  style="color:green">Пользователь добавляет книгу в один из списоков по умолчанию 'прочитанно' : 'читаю' : 'хочу прочитать'</summary>
 
 *(роль)*
 
@@ -551,7 +551,7 @@
 </details>
 
 <details>
-  <summary>Пользователь добавляет книгу в собственный список книг</summary>
+  <summary  style="color:green">Пользователь добавляет книгу в собственный список книг</summary>
 
 *(роль)*
 
@@ -586,7 +586,7 @@
 </details>
 
 <details>
-  <summary>Пользователь удаляет книгу из списков</summary>
+  <summary  style="color:green">Пользователь удаляет книгу из списков</summary>
 
 *(роль)*
 
@@ -617,7 +617,7 @@
 </details>
 
 <details>
-  <summary>Пользователь перемещает книгу между списками</summary>
+  <summary  style="color:green">Пользователь перемещает книгу между списками</summary>
 
 *(роль)*
 
@@ -646,7 +646,7 @@
 </details>
 
 <details>
-  <summary>Пользователь удаляет собственный список книг</summary>
+  <summary  style="color:green">Пользователь удаляет собственный список книг</summary>
 
 *(роль)*
 
@@ -677,7 +677,7 @@
 </details>
 
 <details>
-  <summary>Пользователь просматривает список книг другого пользователя</summary>
+  <summary  style="color:green">Пользователь просматривает список книг другого пользователя</summary>
 
 *(роль)*
 
@@ -714,7 +714,7 @@
 # 3. Работа с профилем
 
 <details>
-  <summary>Пользователь просматривает свой профиль</summary>
+  <summary  style="color:green">Пользователь просматривает свой профиль</summary>
 
 *(роль)*
 
@@ -741,7 +741,7 @@
 </details>
 
 <details>
-  <summary>Пользователь редактирует свой профиль</summary>
+  <summary  style="color:green">Пользователь редактирует свой профиль</summary>
 
 *(роль)*
 
@@ -776,7 +776,7 @@
 </details>
 
 <details>
-  <summary>Пользователь удаляет свой профиль</summary>
+  <summary  style="color:green">Пользователь удаляет свой профиль</summary>
 
 *(роль)*
 
@@ -807,7 +807,7 @@
 </details>
 
 <details>
-  <summary>Пользователь просматривает чужой профиль</summary>
+  <summary  style="color:green">Пользователь просматривает чужой профиль</summary>
 
 *(роль)*
 
@@ -834,7 +834,7 @@
 </details>
 
 <details>
-  <summary>Администратор выдает предупреждение пользователю</summary>
+  <summary  style="color:green">Администратор выдает предупреждение пользователю</summary>
 
 *(роль)*
 
@@ -869,7 +869,7 @@
 </details>
 
 <details>
-  <summary>Администратор блокирует пользователя</summary>
+  <summary  style="color:green">Администратор блокирует пользователя</summary>
 
 *(роль)*
 
