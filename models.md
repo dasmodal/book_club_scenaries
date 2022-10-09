@@ -8,8 +8,6 @@
 
 - is_admin - boolean
 
-- banned - boolean
-
 ## Book
 
 - title - string
