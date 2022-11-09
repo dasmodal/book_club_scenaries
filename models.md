@@ -40,7 +40,7 @@
 
 - user_id - references
 
-## Appeal # жалоба на книгу
+## Complaint # жалоба на книгу
 
 - text - string
 
